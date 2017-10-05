@@ -1,2 +1,2 @@
 # templates
-Free web site design templates for auto dealership websites by http://www.autojini.com
+Free <a href="https://www.autojini.com">web site design templates</a> for auto dealership websites by https://www.autojini.com
